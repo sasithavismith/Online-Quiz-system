@@ -16,7 +16,7 @@ mysqli_select_db($con,'quizdbase');
 </head>
 
 <body>
-	<h1>General Knowledge Quiz</h1>
+	<h1>Quiz of the General Knowledge</h1>
 	<h2 class="text-center"> Welcome <?php  echo $_SESSION['username']; ?> </h2><br>
 	<h3> Welcome <?php  echo $_SESSION['username']; ?> , you have to select only one out of 4. Best of luck.</h3>
 
