@@ -14,7 +14,7 @@
 			<h2 class="text-center">Login Form</h2>
 			<form action="validation.php" method="post">
 					<div class="form-group">
-					<label>username</label><br>
+					<label>Name of the Us</label><br>
 					<input type="text" name="username" class="form-control"><br><br>
 					</div>
 
@@ -28,7 +28,7 @@
 		</div>
 
 			<div class="col-lg-7">
-			<h2 class="text-center">Signin Form</h2>
+			<h2 class="text-center">Sign in to the Form</h2>
 			<form action="registration.php" method="post">
 					<div class="form-group">
 					<label>username</label><br>
